@@ -145,20 +145,3 @@ To je tabela s pobarvanimi kvadrati da izgleda kot križ. Naučil sem se osnove 
 		</table>
 	</body>
 </html>
-
-
-			td{
-				width: 20px;
-				height: 20px;
-				border: 2px solid black;
-			}
-			table{
-				width: 300px;
-				height: 300px;
-				border: 2px solid pink;
-			}
-			.dijijaganala{
-				background: pink;
-			}
-
-
