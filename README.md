@@ -4,7 +4,6 @@ To je tabela s pobarvanimi kvadrati da izgleda kot križ. Naučil sem se osnove 
 <html lang="sl">
 	<head>
 		<link rel="stylesheet" href="style5.css">
-		
 	</head>
 	<body>
 		<table>
