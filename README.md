@@ -1,5 +1,5 @@
 # html_cross
-Znam sestaviti rubikovo kocko.
+Sem Ian in znam sestaviti rubikovo kocko.
 To je tabela s pobarvanimi kvadrati da izgleda kot križ. Naučil sem se osnove tabele v html.
 <!DOCTYPE html>
 <html lang="sl">
