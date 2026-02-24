@@ -17,7 +17,7 @@ To je tabela s pobarvanimi kvadrati da izgleda kot križ. Naučil sem se osnove 
 				border: 2px solid pink;
 			}
 			.dijijaganala{
-				background: pink;
+				background-color: pink;
 			}
 		</style>
 	</head>
